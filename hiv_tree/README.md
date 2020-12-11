@@ -1,6 +1,6 @@
 ## Workflow </br>
 
-1. Run [BLAST] ()
+1. Run [BLAST] () </br>
    Query: 
 
   
