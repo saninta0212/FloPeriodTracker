@@ -11,8 +11,6 @@ library(ggtree)
 tree <- read.tree("/projects/btl_scratch/saninta/hiv_tree/hiv_tree.nwk",text = NULL, tree.names = NULL, skip = 0,
                   comment.char = "", keep.multi = FALSE)
 
-
-
 # Plot the phylogenetic tree
 hiv_tree <- ggtree(tree) + ggtitle("Evolution of HIV-1 (Human Immunodeficiency Virus)") + 
   theme(plot.title = element_text(hjust = 0.5,face="bold")) + geom_tiplab(color="darkgreen",size = 2) 
