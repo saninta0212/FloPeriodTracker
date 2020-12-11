@@ -17,7 +17,9 @@
 
 4. Use [ggTree](./phyl_trees.R) (R Tree package) to visualize the tree: </br>
    -  Input: [hiv_tree.nwk](./hiv_tree.nwk) </br>
-   -  Results: [hiv_tree.png](./hiv_tree.png) and [hiv_cladogram.png](./hiv_cladogram.png)
+   -  Results: [hiv_tree.png](./hiv_tree.png) and [hiv_cladogram.png](./hiv_cladogram.png) </br>
+               [hiv_tree.pdf](./hiv_tree.png) and [hiv_cladogram.pdf]
+               
    
    
    
