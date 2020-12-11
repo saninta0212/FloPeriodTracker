@@ -15,7 +15,7 @@
    - Results: [hiv_tree.nwk](./hiv_tree.nwk)
    
 
-4. Use a ggTree (R Tree package) to visualize the tree: </br>
+4. Use [ggTree](./phyl_trees.R) (R Tree package) to visualize the tree: </br>
    -  Input: [hiv_tree.nwk](./hiv_tree.nwk) </br>
    -  Results: 
    
