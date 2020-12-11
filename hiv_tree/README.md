@@ -12,11 +12,11 @@
    
 3. Build a phylogenetic tree using [Simple Phylogeny](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/) </br>
    - Query: [hiv_muscle.fa](./hiv_muscle.fa) </br>
-   - Results:
+   - Results: [hiv_tree.nwk](./hiv_tree.nwk)
    
 
 4. Use a ggTree (R Tree package) to visualize the tree: </br>
-   -  Input: </br>
+   -  Input: [hiv_tree.nwk](./hiv_tree.nwk) </br>
    -  Results: 
    
    
