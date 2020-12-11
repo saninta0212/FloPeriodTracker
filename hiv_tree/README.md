@@ -7,11 +7,11 @@
   
 2. Perform Multiple Sequence Alignment using [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) </br>
    - Query: [hiv_blast.fa](./hiv_blast.fa) </br>
-   - Results:
+   - Results: [hiv_muscle.fa](./hiv_blasta.fa)
    
    
 3. Build a phylogenetic tree using [Simple Phylogeny](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/) </br>
-   - Query:  </br>
+   - Query: [hiv_muscle.fa](./hiv_blasta.fa) </br>
    - Results:
    
 
