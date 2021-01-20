@@ -5,7 +5,7 @@ Tracking menstrual cycle to calculate the next possible starting date of period 
     
 **Technologies used:**
 
-*JUnit 5* for testing
+*JUnit 5* for testing </br>
 *Java Swing* for Graphical User Interface
 
 **List of things the program can be used to perform:**
