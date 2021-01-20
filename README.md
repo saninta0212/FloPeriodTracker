@@ -1,14 +1,14 @@
-**Description:**
+## Description:
 
 Tracking menstrual cycle to calculate the next possible starting date of period </br>
     [Flo Period Tracker](./period_tracker)
     
-**Technologies used:**
+## Technologies used:
 
 *JUnit 5* for testing </br>
 *Java Swing* for Graphical User Interface
 
-**List of things the program can be used to perform:**
+## List of things the program can be used to perform:
 
 Records details of menstrual cycle
 Predicts the next possible period starting date
